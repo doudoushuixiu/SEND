@@ -2,6 +2,10 @@
 
 <userOverrides>
   <override>
+    <path>C:\Users\THINK\Documents\GitHub\SEND\Project\si4463-send-433mhz\si446x.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
     <path>C:\Users\THINK\Dropbox\Project_Coding\SEND\Project\si4463-send-433mhz\si446x.h</path>
     <encoding>System</encoding>
   </override>

@@ -15,9 +15,6 @@
       <name>$PROJ_DIR$\..\main.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\si446x.c</name>
-    </file>
-    <file>
       <name>$PROJ_DIR$\..\..\..\Libraries\STM8L10x_StdPeriph_Driver\src\stm8l10x_awu.c</name>
     </file>
     <file>
@@ -31,6 +28,9 @@
     </file>
     <file>
       <name>$PROJ_DIR$\..\..\..\Libraries\STM8L10x_StdPeriph_Driver\src\stm8l10x_spi.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM8L10x_StdPeriph_Driver\src\stm8l10x_tim4.c</name>
     </file>
   </group>
 </project>

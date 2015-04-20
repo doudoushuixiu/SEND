@@ -9,7 +9,7 @@ TriggerName=main
 LimitSize=0
 ByteLimit=50
 [DebugChecksum]
-Checksum=-298951807
+Checksum=1854989019
 [CallStack]
 ShowArgs=0
 [Disassembly]
@@ -17,6 +17,8 @@ MixedMode=1
 [SfrWindow]
 Show=1 1
 Sort=4 0
+[watch_formats]
+Fmt0={W}1:count	3	0
 [DataSample]
 LogEnabled=0
 GraphEnabled=0
